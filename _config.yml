@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Nishan Khanal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "My short bio."
   location         : "Grand Rapids"
   email            :
   links:
@@ -325,7 +325,7 @@ defaults:
       share: true
       related: true
 
-port: 4000
-host: "0.0.0.0"
+# port: 4000
+# host: "0.0.0.0"
 
-test_text: "Hello from _config.yml"
+# test_text: "Hello from _config.yml"
